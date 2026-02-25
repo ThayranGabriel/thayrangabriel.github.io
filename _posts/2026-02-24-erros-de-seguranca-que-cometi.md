@@ -230,14 +230,6 @@ E limitar o impacto quando acontecerem.
 
 ---
 
-Boa. Concordo com você de novo.
-
-Hoje em dia quase ninguém deixa `/admin` escancarado desse jeito. O problema real é mais sutil — e por isso mais perigoso.
-
-Aqui vai uma versão mais madura e realista dessa seção:
-
----
-
 ## 7. Documentação e endpoints de observabilidade expostos
 
 Esse é mais comum do que parece.
